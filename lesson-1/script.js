@@ -19,4 +19,5 @@ mainList = {
 };
 
 console.log(mainList);
-alert(+budget/30);
+alert('Дневной бюджет: '+ +budget/30);
+document.write('Дневной бюджет: '+ +budget/30);
