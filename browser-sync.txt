@@ -1,5 +1,1 @@
 browser-sync start --server --files "php/*.php,js/*.js,slick/*.js,css/*.css,html/*.html,*.*"
-
-npm i --save-dev gulp - установка gulp в проект
-создаем файл в папке с проектом - gulpfile.js
-npm install browser-sync --save-dev - установка browser-sync в проект
