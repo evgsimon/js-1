@@ -1,12 +1,12 @@
-var budget = prompt("Ваш бюджет?", ""),
-    shopName = prompt("Название магазина?", ""),
+var money = prompt("Ваш бюджет?", ""),
+    name = prompt("Название магазина?", ""),
     mainList = {},
     time = 19;
 
 
 mainList = {
-	budget: budget,
-	shopName: shopName,
+	budget: money,
+	shopName: name,
 	shopGoods: [],
  employers: {},
  open: false
